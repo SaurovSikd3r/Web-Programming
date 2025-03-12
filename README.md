@@ -1,1 +1,2 @@
-# Web-Programming-CSE479-
+# Web-Programming
+HealthInsight is a web-based hospital management system using HTML, CSS, JavaScript, Bootstrap, PHP, Flask, and MySQL. It streamlines patient records, appointments, billing, and disease prediction while ensuring security and responsiveness. The system includes authentication, dashboards, booking, medical records management, and payments. Security measures like encryption and SQL injection prevention enhance protection. Future upgrades may include AI diagnostics and telemedicine for broader accessibility.
